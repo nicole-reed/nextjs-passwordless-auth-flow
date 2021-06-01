@@ -1,0 +1,20 @@
+{
+  "name": "nextjs-passwordless-auth-flow",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "crypto-secure-random-digit": "^1.0.9",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.12.11",
+    "next": "latest",
+    "nodemailer": "^6.6.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "license": "MIT"
+}
